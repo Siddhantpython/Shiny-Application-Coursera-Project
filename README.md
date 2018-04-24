@@ -7,5 +7,5 @@ This project have two parts:
 https://aroliwa.shinyapps.io/Shin_Application_Coursera_Project/
 
 2. Created an R presentation to pitch the idea with key features of the project, source code and other links
-
+https://rpubs.com/aroliwa/382753
 
