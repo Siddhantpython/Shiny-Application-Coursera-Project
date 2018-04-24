@@ -1,0 +1,53 @@
+---
+title: 'Coursera Project: Shiny Application and Reproducible Pitch'
+author: "Arkadiusz Oliwa"
+date: "24 April 2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction 
+
+This presentation is part of the Course Project for the Coursera Developing Data Products class.
+
+The app developed is avalilable at 
+
+https://aroliwa.shinyapps.io/Shin_Application_Coursera_Project/
+
+The code of app is on github 
+
+https://github.com/aroliwa/Shiny-Application-Coursera-Project
+
+## Dataset 
+
+Data is a subset of the NOAA Atlantic hurricane database best track data, http://www.nhc.noaa.gov/data/#hurdat. The data includes the positions and attributes of 198 tropical storms,measured every six hours during the lifetime of a storm.
+
+
+## Functionality
+
+This application enable:
+
+* Chose storm classification using  selected option
+* Select pressure range using Slider Range. 
+* Select wind range using Slider Range. 
+* Display data frame for the user selected options.
+* Display plots for the user selected options.
+* Display summary for the user selected options.
+
+## Visualizations 
+
+The app allows to perform interactive visualizations:
+
+* Atlantic hurricanes over the years
+* Total storms by period (month and year)
+* Atlantic hurricanes vs pressure
+* Atlantic hurricanes by classification
+
+
+
+
+
+
